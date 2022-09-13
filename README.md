@@ -40,6 +40,6 @@ Include confusion matrix here
 
 ### New Sample Data Prediction
 
-Include your sample input and output for you hand written images.
+Include your sample input and output for your hand written images.
 
 ## RESULT
