@@ -59,7 +59,7 @@ https://github.com/yoursenpai69/dl-exp3/blob/main/Copy_of_Ex03_minist_classifica
 
 ### New Sample Data Prediction
 
-<img src="https://github.com/yoursenpai69/dl-exp3/blob/main/output.JPG" alt="not available" title="Optional title">
+<img src="https://github.com/yoursenpai69/malaria-cell-recognition-177/blob/main/output.JPG" alt="not available" title="Optional title">
 
 ## RESULT
 Successfully developed a convolutional deep neural network for digit classification and verified the response for scanned handwritten images.
